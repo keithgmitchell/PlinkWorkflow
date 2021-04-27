@@ -7,13 +7,14 @@ PlinkWorkflow
     - also see the files that are in the github
 - small vcf for all 11004 family with osteo
 
-
-# Talk to Anthony About
+# TODO
+- include the rvTDT
 - --exclude not returning anythin
 - need to create an option in the scripts to use indel files
 - need to generalize workflow to work with Anthony's data
 - make a github to collaborate on? How to handle slightly different slurm commands at the top like email (mostly just email)
 - need to fix the sex for some of the multi vcf
+
 
 ## Want to filter for exome:
 - https://www.biostars.org/p/281334/#281374
