@@ -1,5 +1,3 @@
-PlinkWorkflow
-
 
 # General Notes
 - https://www.biostars.org/p/114352/#114373
@@ -14,16 +12,13 @@ PlinkWorkflow
 - agree on one master file
 
 
-
 # Talk to Anthony About
 - --exclude not returning anythin
 - need to create an option in the scripts to use indel files 
 - need to generalize workflow to work with Anthony's data
 - make a github to collaborate on? How to handle slightly different slurm commands at the top like email (mostly just email)
 - need to add the TDT analysisk
-- need to fix the sex for some of the multi vcf
-## Want to filter for exome:
-- https://www.biostars.org/p/281334/#281374
+
 
 
 

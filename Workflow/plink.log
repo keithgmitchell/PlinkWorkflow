@@ -1,0 +1,12 @@
+PLINK v1.90p 64-bit (12 Jun 2018)
+Options in effect:
+  --exclude
+
+Hostname: barbera
+Working directory: /share/biocore/keith/boyd2
+Start time: Mon Apr 26 10:00:23 2021
+
+Error: Missing --exclude parameter.
+For more information, try 'plink --help [flag name]' or 'plink --help | more'.
+
+End time: Mon Apr 26 10:00:23 2021
